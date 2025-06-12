@@ -11,7 +11,7 @@ Repositório dedicado a exemplos criativos, efeitos visuais e animações em Jav
 Clone o repositório, acesse a pasta de cada exemplo e abra o `index.html` no navegador.
 
 ```bash
-git clone https://github.com/SEU_USUARIO/creative-js-showcase.git
+git clone https://github.com/tiagoluvizotoneves/creative-js-showcase.git
 cd creative-js-showcase/src/valentines-hearts
 open index.html
 ```

@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  background: #fce1ec;
+  overflow: hidden;
+}
+.mensagem {
+  position: absolute;
+  top: 30px;
+  width: 100%;
+  text-align: center;
+  font-size: 2em;
+  color: #e63950;
+  font-family: Arial;
+  text-shadow: 1px 1px 6px #fff;
+  z-index: 1;
+}
+canvas {
+  display: block;
+}
